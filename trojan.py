@@ -106,4 +106,4 @@ while True:
 			t.start()
 			time.sleep(random.randint(1,10))
 
-	time.sleep(random.randint(1000,10000))
+	time.sleep(random.randint(1,10))

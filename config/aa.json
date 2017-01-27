@@ -2,5 +2,9 @@
 
 	{
 	"module" : "env"
+	},
+
+	{
+	"module" : "dirlist"
 	}
 ]
