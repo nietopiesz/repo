@@ -3,7 +3,7 @@ import os
 def run(**args):
 
 
-	return str(os.dirlist)
+	return str(os.listdir)
 
 
 
