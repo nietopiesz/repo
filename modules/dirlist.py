@@ -1,6 +1,6 @@
 import os
 
-def run(**args)
+def run(**args):
 
 	files = os.listdir(".")
 	return str(files)
